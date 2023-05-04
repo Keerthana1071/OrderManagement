@@ -1,0 +1,14 @@
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+c:\users\2000081242\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
