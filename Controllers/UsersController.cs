@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -22,6 +23,7 @@ namespace WebApplication3.Controllers
 
         // GET: api/Users
         [HttpGet]
+        [Authorize]
         public IEnumerable<Users> GetUsers()
         {
             return _context.Users;
